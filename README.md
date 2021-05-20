@@ -14,14 +14,10 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
-  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
-  <a href="https://www.instagram.com/hye_inisfree/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-</p>
-
 [![Syo's GitHub stats](https://github-readme-stats.vercel.app/api?username=syo2000&hide_title=true&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/syo2000/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syo2000&layout=compat&theme=dracula)](https://github.com/syo2000)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syo2000&theme=dracula)](https://github.com/syo2000/github-readme-stats)
+
 
 
