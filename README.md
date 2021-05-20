@@ -1,23 +1,30 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Syo!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<p align="center">
+<img src="7507fff1c46f0652d019e8968b5af06b.jfif" width = "70" height = "70">
+ </p>
 <div align="center">
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-3766AB"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Microsoft Excel-217346"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Microsoft Power Point-B7472A"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Microsoft Word-2B579A"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Figma-F24E1E"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Trello-0052CC"/></a>&nbsp
 </p>
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syo2000&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syo2000&layout=compact&theme=dracula)](https://github.com/syo2000/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syo2000&repo=github-readme-stats)](https://github.com/syo2000/github-readme-stats)
+
+
+
 
 
 
