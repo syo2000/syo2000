@@ -14,10 +14,11 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
 </p>
 
-[![Syo's GitHub stats](https://github-readme-stats.vercel.app/api?username=syo2000&hide_title=true&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/syo2000/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syo2000&layout=compat&theme=dracula)](https://github.com/syo2000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syo2000&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syo2000&layout=compact&theme=dracula)](https://github.com/syo2000/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syo2000&theme=dracula)](https://github.com/syo2000/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syo2000&repo=github-readme-stats)](https://github.com/syo2000/github-readme-stats)
+
 
 
 
