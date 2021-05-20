@@ -18,8 +18,7 @@
 </p>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syo2000&show_icons=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syo2000&commits&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syo2000&layout=compact&theme=dracula)](https://github.com/syo2000/github-readme-stats)
 
 
