@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E"/></a>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91"/></a>&nbsp
   <img src="https://img.shields.io/badge/Trello-0052CC"/></a>&nbsp
+  <br>
+
 </p>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
