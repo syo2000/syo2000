@@ -16,12 +16,11 @@
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91"/></a>&nbsp
   <img src="https://img.shields.io/badge/Trello-0052CC"/></a>&nbsp
   <br>
-
 </p>
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syo2000&theme=dracula&count_private=true&show_icons=true)](https://github.com/syo2000/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syo2000&layout=compact&theme=dracula)](https://github.com/syo2000/github-readme-stats)
+
+
+
 
 
 
