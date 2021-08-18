@@ -1,7 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Syo!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+
 <p align="center">
-<img src="7507fff1c46f0652d019e8968b5af06b.jfif" width = "70" height = "70">
+<img src="bg.png" >
  </p>
 <div align="center">
 <h3 align="center">📚 Tech Stack 📚</h3>
