@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="bg.jpg" width ="400" height = "400">
+<img src="bg2.ifif">
  </p>
 <div align="center">
 <h1 align="center">Hi, I'm Syo</h1>
