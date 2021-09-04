@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="bg2.ifif">
+<img src="bg2.jfif">
  </p>
 <div align="center">
 <h1 align="center">Hi, I'm Syo</h1>
