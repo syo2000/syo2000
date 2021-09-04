@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="bg.png" >
+<img src="bg.jpg" width ="700" height = "500">
  </p>
 <div align="center">
 <h1 align="center">Hi, I'm Syo</h1>
