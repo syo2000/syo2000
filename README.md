@@ -20,13 +20,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ## 📚 Project Release
 
-## 🌕 Weekly Development Breakdown
-
-```text
-JSON        0 secs         █████████ 40%
-```
-
-<!-- wakatime_plugin_end -->
 ## 🔧 Languages and Tools
 
 <p>
@@ -51,9 +44,11 @@ JSON        0 secs         █████████ 40%
 </p>
 
 ## 🪐 Card
+
 <p align="center">
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syo2000&theme=default)
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syo2000&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syo2000&theme=default)
  
