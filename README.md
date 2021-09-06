@@ -27,6 +27,11 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ## 🍂 Project Release
 
+
+## ☘️ Licenses & certifications
+
+- <a href='https://github.com/syo2000/Licenses-certifications/blob/main/SQL(Basic).png'>Basic (SQL)</a> - 06 Sep 2021
+- 
 ## 🌱 Practice
 <a href="https://www.hackerrank.com/thuyduong_lethi1" >
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" height="40" />
