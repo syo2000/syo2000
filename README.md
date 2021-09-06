@@ -2,6 +2,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/syo2000">Syo</a><img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <br />
+
 <a href="https://syo2000.github.io/">
   <img src="https://github.com/syo2000/syo2000/blob/main/myblog.png" height="40" />
 </a>
@@ -17,6 +18,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <a href="#"><img align="right" src="https://github.com/syo2000/syo2000/blob/main/logo.png" width="200 " height="200" /></a>
 
+
+
 ## 🌵 Recent Blog
 
 - <a href='https://syo2000.github.io/introductionpython/' target='_blank'>Introduction Python in HackerRank</a> - 05 Sep 2021
@@ -25,14 +28,24 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br>
 <br>
 
+
+
 ## 🍂 Project Release
 
 - <a href='https://github.com/syo2000/Security-Issues-in-Information-Systems/tree/main/Project'>Security Issues in Information Systems</a> 
 
+<br>
+
+
+
 ## ☘️ Licenses & certifications
 
 - <a href='https://github.com/syo2000/Licenses-certifications/blob/main/SQL(Basic).png'>Basic (SQL)</a> - 06 Sep 2021
-- 
+
+<br>
+
+
+
 ## 🌱 Practice
 <a href="https://www.hackerrank.com/thuyduong_lethi1" >
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" height="40" />
@@ -44,6 +57,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="40" />
 </a>
 
+<br>
 
 
 
@@ -57,6 +71,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" >
 <img src="https://www.svgrepo.com/show/303303/oracle-6-logo.svg" height="40" >
 </p>
+
+<br>
+
+
 
 ## 🪐 Card
 
