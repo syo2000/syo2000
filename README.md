@@ -27,6 +27,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ## 🍂 Project Release
 
+- <a href='https://github.com/syo2000/Security-Issues-in-Information-Systems/tree/main/Project'>Security Issues in Information Systems</a> 
 
 ## ☘️ Licenses & certifications
 
