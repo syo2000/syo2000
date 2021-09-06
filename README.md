@@ -47,6 +47,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 
 ## 🌱 Practice
+
 <a href="https://www.hackerrank.com/thuyduong_lethi1" >
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" height="40" />
 </a>
@@ -57,6 +58,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" height="40" />
 </a>
 
+<br>
 <br>
 
 
