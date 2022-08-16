@@ -6,9 +6,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <a href="https://syo2000.github.io/">
   <img src="https://github.com/syo2000/syo2000/blob/main/myblog.png" height="40" />
 </a>
-<a href="https://syo2000.notion.site/textit-Syo-s-Home-66734c4768fc4ca3b6a668e33f85a33d">
-  <img src="https://github.com/syo2000/syo2000/blob/main/notion.png" height="40" />
-</a>
+
 <a href="https://www.facebook.com/thuyduong5031/">
   <img src="https://github.com/syo2000/syo2000/blob/main/fb.png" height="40" />
 </a>
@@ -20,29 +18,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 
 
-## 🌵 Recent Blog
-
-- <a href='https://syo2000.github.io/introductionpython/' target='_blank'>Introduction Python in HackerRank</a> - 05 Sep 2021
-- <a href='https://syo2000.github.io/basicselect/' target='_blank'>Basic Select Sql in HackerRank</a> - 16 Aug 2021
-<br>
-<br>
-<br>
-
-
-
-## 🍂 Project Release
-
-- <a href='https://github.com/syo2000/Security-Issues-in-Information-Systems/tree/main/Project'>Security Issues in Information Systems</a> 
-
-<br>
-
-
-
-## ☘️ Licenses & certifications
-
-- <a href='https://github.com/syo2000/Licenses-certifications/blob/main/SQL(Basic).png'>Basic (SQL)</a> - 06 Sep 2021
-
-<br>
 
 
 
