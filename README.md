@@ -7,9 +7,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <img src="https://github.com/syo2000/syo2000/blob/main/myblog.png" height="40" />
 </a>
 
-<a href="https://www.facebook.com/thuyduong5031/">
-  <img src="https://github.com/syo2000/syo2000/blob/main/fb.png" height="40" />
-</a>
+
 <a href="https://www.linkedin.com/in/d%C6%B0%C6%A1ng-th%C3%B9y-6469aa212/">
   <img src="https://github.com/syo2000/syo2000/blob/main/linkedin.png" height="40" />
 </a>
