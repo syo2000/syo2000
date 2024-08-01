@@ -39,8 +39,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ## 🍃 Languages and Tools
 
 <p>
-<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/PowerBI.png" height="40" >
-<img src="https://image.flaticon.com/icons/png/512/2772/2772128.png" height="40">
+
 <img src="https://t4.ftcdn.net/jpg/02/98/27/91/240_F_298279136_WJ7q0Fm8RdHRg6syM7VjlF7mfsxBEMha.jpg" height="40" >
 <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="40">
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" >
